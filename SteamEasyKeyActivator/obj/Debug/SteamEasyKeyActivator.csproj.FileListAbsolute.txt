@@ -1,0 +1,9 @@
+c:\users\ardao\documents\visual studio 2015\Projects\SteamEasyKeyActivator\SteamEasyKeyActivator\bin\Debug\SteamEasyKeyActivator.exe.config
+c:\users\ardao\documents\visual studio 2015\Projects\SteamEasyKeyActivator\SteamEasyKeyActivator\bin\Debug\SteamEasyKeyActivator.exe
+c:\users\ardao\documents\visual studio 2015\Projects\SteamEasyKeyActivator\SteamEasyKeyActivator\bin\Debug\SteamEasyKeyActivator.pdb
+c:\users\ardao\documents\visual studio 2015\Projects\SteamEasyKeyActivator\SteamEasyKeyActivator\obj\Debug\SteamEasyKeyActivator.csprojResolveAssemblyReference.cache
+c:\users\ardao\documents\visual studio 2015\Projects\SteamEasyKeyActivator\SteamEasyKeyActivator\obj\Debug\SteamEasyKeyActivator.Form1.resources
+c:\users\ardao\documents\visual studio 2015\Projects\SteamEasyKeyActivator\SteamEasyKeyActivator\obj\Debug\SteamEasyKeyActivator.Properties.Resources.resources
+c:\users\ardao\documents\visual studio 2015\Projects\SteamEasyKeyActivator\SteamEasyKeyActivator\obj\Debug\SteamEasyKeyActivator.csproj.GenerateResource.Cache
+c:\users\ardao\documents\visual studio 2015\Projects\SteamEasyKeyActivator\SteamEasyKeyActivator\obj\Debug\SteamEasyKeyActivator.exe
+c:\users\ardao\documents\visual studio 2015\Projects\SteamEasyKeyActivator\SteamEasyKeyActivator\obj\Debug\SteamEasyKeyActivator.pdb
