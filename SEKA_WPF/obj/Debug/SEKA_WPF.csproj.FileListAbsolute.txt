@@ -1,0 +1,14 @@
+c:\users\ardao\documents\visual studio 2015\Projects\SEKA_WPF\SEKA_WPF\bin\Debug\SEKA_WPF.exe.config
+c:\Users\ardao\documents\visual studio 2015\Projects\SEKA_WPF\SEKA_WPF\obj\Debug\SEKA_WPF.csprojResolveAssemblyReference.cache
+c:\Users\ardao\documents\visual studio 2015\Projects\SEKA_WPF\SEKA_WPF\obj\Debug\MainWindow.g.cs
+c:\Users\ardao\documents\visual studio 2015\Projects\SEKA_WPF\SEKA_WPF\obj\Debug\App.g.cs
+c:\Users\ardao\documents\visual studio 2015\Projects\SEKA_WPF\SEKA_WPF\obj\Debug\SEKA_WPF_MarkupCompile.cache
+c:\Users\ardao\documents\visual studio 2015\Projects\SEKA_WPF\SEKA_WPF\obj\Debug\SEKA_WPF_MarkupCompile.lref
+c:\users\ardao\documents\visual studio 2015\Projects\SEKA_WPF\SEKA_WPF\bin\Debug\SEKA_WPF.exe
+c:\users\ardao\documents\visual studio 2015\Projects\SEKA_WPF\SEKA_WPF\bin\Debug\SEKA_WPF.pdb
+c:\users\ardao\documents\visual studio 2015\Projects\SEKA_WPF\SEKA_WPF\obj\Debug\MainWindow.baml
+c:\users\ardao\documents\visual studio 2015\Projects\SEKA_WPF\SEKA_WPF\obj\Debug\SEKA_WPF.g.resources
+c:\users\ardao\documents\visual studio 2015\Projects\SEKA_WPF\SEKA_WPF\obj\Debug\SEKA_WPF.Properties.Resources.resources
+c:\users\ardao\documents\visual studio 2015\Projects\SEKA_WPF\SEKA_WPF\obj\Debug\SEKA_WPF.csproj.GenerateResource.Cache
+c:\users\ardao\documents\visual studio 2015\Projects\SEKA_WPF\SEKA_WPF\obj\Debug\SEKA_WPF.exe
+c:\users\ardao\documents\visual studio 2015\Projects\SEKA_WPF\SEKA_WPF\obj\Debug\SEKA_WPF.pdb
